@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bola Sepak</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="shotstring">Shots</string>
+    <string name="goalstring">Goals</string>
+    <string name="upcomingstring">Upcoming Match</string>
+    <string name="preference_file_key">PREFKEY</string>
+    <string name="paststring">Past Match</string>
+    <string name="title_activity_team_detail">TeamDetailActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
